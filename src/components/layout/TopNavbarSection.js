@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 
 const TopNavbarSection = () => {
-    const title = "skumarlko information technology";
+    const title = "SkumarLko";
     const facebook_url = "https://www.facebook.com/profile.php?id=100088691079311";
     const instagram_url = "https://www.instagram.com/skumarlko_2023/";
     const twitter_url = "https://twitter.com/skumarlko2023";
